@@ -1,0 +1,7 @@
+.netrwhist
+*.log 
+.DS_Store
+*.bundle
+*.cache 
+./_tmux/netrwhist 
+_tmux/.cache 
